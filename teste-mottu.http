@@ -1,0 +1,6 @@
+@teste_mottu_HostAddress = http://localhost:5288
+
+GET {{teste_mottu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
